@@ -15,7 +15,7 @@ Frameworks/Tools: Git, ASP.NET Core, React, CMake, PyGame, NumPy, Matplotlib, Nm
 
 ### Academic 
 
-- [droneControl](https://github.com/ianpletcher/droneControl) : Python, NumPy, PyGame, SciPy, Hailo AI, Raspberry Pi, Debian Linux
+- [droneControl](https://github.com/ianpletcher/droneControl) : Python, NumPy, PyGame, SciPy, Hailo AI, Raspberry Pi, Debian Linux\
 - [telloControl](https://github.com/ianpletcher/telloControl) : Python, djitellopy, SciPy, OpenCV, Hailo AI
 
 ### Personal 
