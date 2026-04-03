@@ -4,6 +4,8 @@ I'm a fourth-year computer science student at Augusta University graduating May 
 
 I'm seeking internship or full-time employment opportunities within software development, computer engineering, information technology, or cybersecurity.
 
+### Skills
+
 Languages: C, C#, Python, Java, Kotlin, JavaScript, TypeScript, SQL, x86 and RISC-V Assembly, OcaML
 Frameworks/Tools: Git, ASP.NET Core, React, CMake, PyGame, NumPy, Matplotlib, Nmap
 
